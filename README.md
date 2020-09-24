@@ -2,9 +2,18 @@
 
 ## I'm a web developer
 
+### Connect with me
+
+![Twitter Follow](https://img.shields.io/twitter/follow/jovanWebDev?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
+
+
+<br />
+
 [![Jovan's github stats](https://github-readme-stats.vercel.app/api?username=jovan-nikolic-dev&show_icons=true)](https://github.com/jovan-nikolic-dev/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovan-nikolic-dev)](https://github.com/jovan-nikolic-dev/github-readme-stats)
+
 
 ### Languages and Tools:
 
