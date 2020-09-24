@@ -4,7 +4,14 @@
 
 ### Connect with me
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jovanWebDev?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/jovanWebDev?color=%231DA1F2&logo=Twitter&style=for-the-badge) -->
+
+
+
+[<img src="https://img.shields.io/twitter/follow/jovanWebDev?color=%231DA1F2&logo=Twitter&style=for-the-badge">](https://twitter.com/jovanWebDev/)
+
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/jovanWebDev/)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jovanwebdev/)
 
